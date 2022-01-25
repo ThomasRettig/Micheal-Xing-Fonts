@@ -5,4 +5,4 @@ A collection of Micheal Xing’s typefaces which are published under the SIL Ope
 I have included autohinted versions of the typefaces for testing purposes too, processed with [TTF Autohint](https://freetype.org/ttfautohint/) v1.8.4
 
 ## Project status
-No further updates planned.
+New fonts could be added if I have time.
